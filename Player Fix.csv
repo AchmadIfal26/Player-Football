@@ -1,0 +1,566 @@
+name,club,position,height,foot,age,age_category
+Kylian Mbappé,Paris Saint-Germain,Attacking Midfielder Left,178,Right,25,Prime
+Mohamed Salah,Liverpool,Attacking Midfielder Right,175,Left,31,Experienced
+Erling Haaland,Manchester City,Forward Centre,194,Left,23,Young
+Harry Kane,Bayern München,Attacking Midfielder Centre,188,Right,30,Experienced
+Kevin de Bruyne,Manchester City,Midfielder Centre,181,Right,32,Experienced
+Lionel Messi,Inter Miami CF,Attacking Midfielder Right Centre,170,Left,36,Veteran
+Vinícius Júnior,Real Madrid,Attacking Midfielder Left,176,Right,23,Young
+Robert Lewandowski,Barcelona,Forward Centre,185,Right,35,Veteran
+Jude Bellingham,Real Madrid,Midfielder Right Left Centre,185,Right,20,Young
+Hernández Rodri,Manchester City,Defensive Midfielder Centre,191,Right,27,Prime
+Becker Alisson,Liverpool,Goalkeeper,192,Right,31,Experienced
+Thibaut Courtois,Real Madrid,Goalkeeper,199,Left,31,Experienced
+Heung-Min Son,Tottenham Hotspur,Attacking Midfielder Right Left,183,Both,31,Experienced
+Antoine Griezmann,Atlético Madrid,Attacking Midfielder Right Left Centre,176,Left,33,Experienced
+Júnior Neymar,Al Hilal SFC,Attacking Midfielder Left Centre,175,Both,32,Experienced
+Becker Alisson,Liverpool,Goalkeeper,192,Right,31,Experienced
+Thibaut Courtois,Real Madrid,Goalkeeper,199,Left,31,Experienced
+Heung-Min Son,Tottenham Hotspur,Attacking Midfielder Right Left,183,Both,31,Experienced
+Antoine Griezmann,Atlético Madrid,Attacking Midfielder Right Left Centre,176,Left,33,Experienced
+Júnior Neymar,Al Hilal SFC,Attacking Midfielder Left Centre,175,Both,32,Experienced
+Karim Benzema,Al Ittihad,Forward Centre,187,Both,36,Veteran
+Bernardo Silva,Manchester City,Midfielder Right Centre,173,Left,29,Prime
+Bruno Fernandes,Manchester United,Midfielder Centre,179,Right,29,Prime
+Ilkay Gündoğan,Barcelona,Defensive Midfielder Centre,180,Both,33,Experienced
+Toni Kroos,Real Madrid,Defensive Midfielder Centre,182,Both,34,Experienced
+Luka Modrić,Real Madrid,Midfielder Centre,174,Both,38,Veteran
+Federico Valverde,Real Madrid,Midfielder Right Centre,182,Right,25,Prime
+Trent Alexander-Arnold,Liverpool,Defender Right,175,Right,25,Prime
+Joshua Kimmich,Bayern München,Defender Right,176,Right,29,Prime
+Corrêa Marquinhos,Paris Saint-Germain,Defender Centre,183,Right,29,Prime
+Luka Modrić,Real Madrid,Midfielder Centre,174,Both,38,Veteran
+Federico Valverde,Real Madrid,Midfielder Right Centre,182,Right,25,Prime
+Trent Alexander-Arnold,Liverpool,Defender Right,175,Right,25,Prime
+Joshua Kimmich,Bayern München,Defender Right,176,Right,29,Prime
+Corrêa Marquinhos,Paris Saint-Germain,Defender Centre,183,Right,29,Prime
+Virgil van Dijk,Liverpool,Defender Centre,193,Right,32,Experienced
+David Alaba,Real Madrid,Defender Left Centre,180,Left,31,Experienced
+Rúben Dias,Manchester City,Defender Centre,187,Right,26,Prime
+Moraes Ederson,Manchester City,Goalkeeper,188,Left,30,Experienced
+Marc-André Ter Stegen,Barcelona,Goalkeeper,187,Right,31,Experienced
+Manuel Neuer,Bayern München,Goalkeeper,193,Both,38,Veteran
+Lautaro Martínez,Internazionale,Forward Centre,174,Right,26,Prime
+Goes Rodrygo,Real Madrid,Attacking Midfielder Right Left,174,Right,23,Young
+Paulo Dybala,AS Roma,Attacking Midfielder Right Centre,177,Left,30,Experienced
+Cristiano Ronaldo,Al Nassr,Forward Centre,187,Both,39,Veteran
+Manuel Neuer,Bayern München,Goalkeeper,193,Both,38,Veteran
+Lautaro Martínez,Internazionale,Forward Centre,174,Right,26,Prime
+Goes Rodrygo,Real Madrid,Attacking Midfielder Right Left,174,Right,23,Young
+Paulo Dybala,AS Roma,Attacking Midfielder Right Centre,177,Left,30,Experienced
+Cristiano Ronaldo,Al Nassr,Forward Centre,187,Both,39,Veteran
+Víctor Osimhen,SSC Napoli,Forward Centre,186,Right,25,Prime
+Phil Foden,Manchester City,Midfielder Centre,171,Left,23,Young
+Martin Odegaard,Arsenal,Midfielder Centre,178,Left,25,Prime
+Bukayo Saka,Arsenal,Midfielder Right Left,178,Left,22,Young
+Rafael Leão,AC Milan,Attacking Midfielder Left,188,Right,24,Young
+Leroy Sanè,Bayern München,Attacking Midfielder Right Left Centre,184,Left,28,Prime
+Frenkie de Jong,Barcelona,Defensive Midfielder Centre,181,Right,26,Prime
+Nicolò Barella,Internazionale,Defensive Midfielder Centre,175,Right,27,Prime
+Declan Rice,Arsenal,Defensive Midfielder Centre,185,Right,25,Prime
+Carlos Casemiro,Manchester United,Defensive Midfielder Centre,184,Right,32,Experienced
+Leroy Sanè,Bayern München,Attacking Midfielder Right Left Centre,184,Left,28,Prime
+Frenkie de Jong,Barcelona,Defensive Midfielder Centre,181,Right,26,Prime
+Nicolò Barella,Internazionale,Defensive Midfielder Centre,175,Right,27,Prime
+Declan Rice,Arsenal,Defensive Midfielder Centre,185,Right,25,Prime
+Carlos Casemiro,Manchester United,Defensive Midfielder Centre,184,Right,32,Experienced
+Andy Robertson,Liverpool,Defender Left,178,Left,30,Experienced
+João Cancelo,Manchester City,Defender Right Left,182,Right,29,Prime
+John Stones,Manchester City,Defender Right Centre,188,Right,29,Prime
+Éder Militão,Real Madrid,Defender Right Centre,186,Right,26,Prime
+Antonio Rüdiger,Real Madrid,Defender Right Centre,190,Right,31,Experienced
+Jan Oblak,Atlético Madrid,Goalkeeper,189,Right,31,Experienced
+Gabriel Jesus,Arsenal,Attacking Midfielder Right Left,175,Both,27,Prime
+Julián Álvarez,Manchester City,Attacking Midfielder Right Left Centre,172,Right,24,Young
+Federico Chiesa,Juventus,Attacking Midfielder Right Left Centre,179,Right,26,Prime
+Christopher Nkunku,Chelsea,Attacking Midfielder Right Left Centre,178,Right,26,Prime
+Jan Oblak,Atlético Madrid,Goalkeeper,189,Right,31,Experienced
+Gabriel Jesus,Arsenal,Attacking Midfielder Right Left,175,Both,27,Prime
+Julián Álvarez,Manchester City,Attacking Midfielder Right Left Centre,172,Right,24,Young
+Federico Chiesa,Juventus,Attacking Midfielder Right Left Centre,179,Right,26,Prime
+Christopher Nkunku,Chelsea,Attacking Midfielder Right Left Centre,178,Right,26,Prime
+Thomas Müller,Bayern München,Attacking Midfielder Right Centre,186,Right,34,Experienced
+Khvicha Kvaratskhelia,SSC Napoli,Attacking Midfielder Left Centre,183,Both,23,Young
+Marcus Rashford,Manchester United,Attacking Midfielder Right Left,185,Right,26,Prime
+Sadio Mané,Al Nassr,Attacking Midfielder Right Left,175,Right,32,Experienced
+Raheem Sterling,Chelsea,Attacking Midfielder Right Left Centre,170,Right,29,Prime
+Diogo Jota,Liverpool,Attacking Midfielder Right Left Centre,178,Both,27,Prime
+Álvaro Morata,Atlético Madrid,Attacking Midfielder Left,187,Right,31,Experienced
+Romelu Lukaku,Chelsea,Forward Centre,191,Left,30,Experienced
+Jamal Musiala,Bayern München,Midfielder Centre,183,Right,21,Young
+James Maddison,Tottenham Hotspur,Midfielder Centre,179,Right,27,Prime
+Diogo Jota,Liverpool,Attacking Midfielder Right Left Centre,178,Both,27,Prime
+Álvaro Morata,Atlético Madrid,Attacking Midfielder Left,187,Right,31,Experienced
+Romelu Lukaku,Chelsea,Forward Centre,191,Left,30,Experienced
+Jamal Musiala,Bayern München,Midfielder Centre,183,Right,21,Young
+James Maddison,Tottenham Hotspur,Midfielder Centre,179,Right,27,Prime
+Jack Grealish,Manchester City,Attacking Midfielder Left Centre,175,Right,28,Prime
+Luis Díaz,Liverpool,Attacking Midfielder Right Left,180,Right,27,Prime
+Mikel Oyarzabal,Real Sociedad,Attacking Midfielder Right Left Centre,181,Left,27,Prime
+Ousmane Dembélé,Paris Saint-Germain,Attacking Midfielder Right Left,178,Both,26,Prime
+Kingsley Coman,Bayern München,Midfielder Right Left,178,Right,27,Prime
+Serge Gnabry,Bayern München,Attacking Midfielder Right Left Centre,173,Right,28,Prime
+Riyad Mahrez,Al Ahli SFC,Attacking Midfielder Right Centre,179,Left,33,Experienced
+Gonzalez Pedri,Barcelona,Midfielder Left Centre,174,Right,21,Young
+Jorge Koke,Atlético Madrid,Defensive Midfielder Centre,178,Right,32,Experienced
+Marco Verratti,Al-Arabi SC,Defensive Midfielder Centre,165,Right,31,Experienced
+Serge Gnabry,Bayern München,Attacking Midfielder Right Left Centre,173,Right,28,Prime
+Riyad Mahrez,Al Ahli SFC,Attacking Midfielder Right Centre,179,Left,33,Experienced
+Gonzalez Pedri,Barcelona,Midfielder Left Centre,174,Right,21,Young
+Jorge Koke,Atlético Madrid,Defensive Midfielder Centre,178,Right,32,Experienced
+Marco Verratti,Al-Arabi SC,Defensive Midfielder Centre,165,Right,31,Experienced
+Alcântara Thiago,Liverpool,Defensive Midfielder Centre,174,Right,33,Experienced
+Bruno Guimarães,Newcastle United,Defensive Midfielder Centre,182,Right,26,Prime
+Mikel Merino,Real Sociedad,Defensive Midfielder Centre,188,Left,27,Prime
+Sergej Milinković-Savić,Al Hilal SFC,Midfielder Centre,192,Right,29,Prime
+Leon Goretzka,Bayern München,Defensive Midfielder Centre,189,Right,29,Prime
+Adrien Rabiot,Juventus,Defensive Midfielder Centre,191,Left,29,Prime
+Mateo Kovačić,Manchester City,Defensive Midfielder Centre,181,Both,29,Prime
+Hakan Çalhanoğlu,Internazionale,Defensive Midfielder Centre,178,Right,30,Experienced
+Marcelo Brozović,Al Nassr,Defensive Midfielder Centre,181,Both,31,Experienced
+Aurélien Tchouameni,Real Madrid,Defender Centre,187,Right,24,Young
+Adrien Rabiot,Juventus,Defensive Midfielder Centre,191,Left,29,Prime
+Mateo Kovačić,Manchester City,Defensive Midfielder Centre,181,Both,29,Prime
+Hakan Çalhanoğlu,Internazionale,Defensive Midfielder Centre,178,Right,30,Experienced
+Marcelo Brozović,Al Nassr,Defensive Midfielder Centre,181,Both,31,Experienced
+Aurélien Tchouameni,Real Madrid,Defender Centre,187,Right,24,Young
+Reece James,Chelsea,Defender Right Centre,182,Right,24,Young
+Achraf Hakimi,Paris Saint-Germain,Defender Right Left,180,Right,25,Prime
+Alphonso Davies,Bayern München,Defender Left,181,Left,23,Young
+Theo Hernández,AC Milan,Defender Left Centre,184,Left,26,Prime
+Luke Shaw,Manchester United,Defender Left Centre,185,Left,28,Prime
+Daniel Carvajal,Real Madrid,Defender Right,173,Right,32,Experienced
+Kieran Trippier,Newcastle United,Defender Right Left,177,Right,33,Experienced
+Kyle Walker,Manchester City,Defender Right Centre,178,Right,33,Experienced
+William Saliba,Arsenal,Defender Centre,193,Right,23,Young
+Jules Koundé,Barcelona,Defender Right Centre,178,Right,25,Prime
+Daniel Carvajal,Real Madrid,Defender Right,173,Right,32,Experienced
+Kieran Trippier,Newcastle United,Defender Right Left,177,Right,33,Experienced
+Kyle Walker,Manchester City,Defender Right Centre,178,Right,33,Experienced
+William Saliba,Arsenal,Defender Centre,193,Right,23,Young
+Jules Koundé,Barcelona,Defender Right Centre,178,Right,25,Prime
+Min-Jae Kim,Bayern München,Defender Centre,190,Right,27,Prime
+Alessandro Bastoni,Internazionale,Defender Centre,190,Left,25,Prime
+Matthijs de Ligt,Bayern München,Defender Centre,189,Right,24,Young
+Dayot Upamecano,Bayern München,Defender Centre,186,Right,25,Prime
+Mats Hummels,Borussia Dortmund,Defender Centre,191,Right,35,Veteran
+Lucas Hernández,Paris Saint-Germain,Defender Left Centre,184,Left,28,Prime
+Ronald Araújo,Barcelona,Defender Right Centre,188,Right,25,Prime
+Gabriel Magalhães,Arsenal,Defender Centre,190,Left,26,Prime
+Cristian Romero,Tottenham Hotspur,Defender Centre,185,Right,25,Prime
+José María Giménez,Atlético Madrid,Defender Centre,185,Right,29,Prime
+Lucas Hernández,Paris Saint-Germain,Defender Left Centre,184,Left,28,Prime
+Ronald Araújo,Barcelona,Defender Right Centre,188,Right,25,Prime
+Gabriel Magalhães,Arsenal,Defender Centre,190,Left,26,Prime
+Cristian Romero,Tottenham Hotspur,Defender Centre,185,Right,25,Prime
+José María Giménez,Atlético Madrid,Defender Centre,185,Right,29,Prime
+Milan Skriniar,Paris Saint-Germain,Defender Centre,188,Right,29,Prime
+Raphaël Varane,Manchester United,Defender Centre,191,Right,30,Experienced
+Gianluigi Donnarumma,Paris Saint-Germain,Goalkeeper,196,Right,25,Prime
+Mike Maignan,AC Milan,Goalkeeper,191,Right,28,Prime
+Wojciech Szczęsny,Juventus,Goalkeeper,196,Right,34,Experienced
+Jonathan David,Lille OSC,Attacking Midfielder Centre,180,Both,24,Young
+Alexander Isak,Newcastle United,Attacking Midfielder Left,192,Right,24,Young
+Andrade Richarlison,Tottenham Hotspur,Attacking Midfielder Right Left Centre,184,Right,26,Prime
+Marcus Thuram,Internazionale,Attacking Midfielder Left,192,Right,26,Prime
+Ollie Watkins,Aston Villa,Attacking Midfielder Right Left,180,Right,28,Prime
+Jonathan David,Lille OSC,Attacking Midfielder Centre,180,Both,24,Young
+Alexander Isak,Newcastle United,Attacking Midfielder Left,192,Right,24,Young
+Andrade Richarlison,Tottenham Hotspur,Attacking Midfielder Right Left Centre,184,Right,26,Prime
+Marcus Thuram,Internazionale,Attacking Midfielder Left,192,Right,26,Prime
+Ollie Watkins,Aston Villa,Attacking Midfielder Right Left,180,Right,28,Prime
+João Félix,Atlético Madrid,Attacking Midfielder Left Centre,180,Both,24,Young
+Kai Havertz,Arsenal,Midfielder Centre,190,Left,24,Young
+Ángel Correa,Atlético Madrid,Attacking Midfielder Right Centre,171,Right,29,Prime
+Roberto Firmino,Al Ahli SFC,Attacking Midfielder Centre,181,Right,32,Experienced
+Gabriel Martinelli,Arsenal,Attacking Midfielder Right Left,180,Right,22,Young
+Darwin Núñez,Liverpool,Attacking Midfielder Left,188,Right,24,Young
+Gerard Moreno,Villarreal CF,Attacking Midfielder Right,177,Left,32,Experienced
+Wissam Ben Yedder,AS Monaco,Forward Centre,170,Both,33,Experienced
+Ciro Immobile,SS Lazio,Forward Centre,185,Right,34,Experienced
+Randal Kolo Muani,Paris Saint-Germain,Attacking Midfielder Right Left,187,Right,25,Prime
+Darwin Núñez,Liverpool,Attacking Midfielder Left,188,Right,24,Young
+Gerard Moreno,Villarreal CF,Attacking Midfielder Right,177,Left,32,Experienced
+Wissam Ben Yedder,AS Monaco,Forward Centre,170,Both,33,Experienced
+Ciro Immobile,SS Lazio,Forward Centre,185,Right,34,Experienced
+Randal Kolo Muani,Paris Saint-Germain,Attacking Midfielder Right Left,187,Right,25,Prime
+Dušan Vlahović,Juventus,Forward Centre,190,Left,24,Young
+Olivier Giroud,AC Milan,Forward Centre,192,Left,37,Veteran
+Edin Džeko,Fenerbahçe SK,Forward Centre,193,Both,38,Veteran
+Florian Wirtz,Bayer Leverkusen,Attacking Midfielder Right Left Centre,176,Right,20,Young
+Mason Mount,Manchester United,Midfielder Centre,178,Right,25,Prime
+Lucas Paquetá,West Ham United,Midfielder Left Centre,180,Left,26,Prime
+Lorenzo Pellegrini,AS Roma,Midfielder Centre,186,Both,27,Prime
+Julian Brandt,Borussia Dortmund,Midfielder Centre,183,Right,27,Prime
+Monteiro Otávio,Al Nassr,Midfielder Right Left Centre,171,Right,29,Prime
+Marco Reus,Borussia Dortmund,Attacking Midfielder Right Left Centre,180,Both,34,Experienced
+Lucas Paquetá,West Ham United,Midfielder Left Centre,180,Left,26,Prime
+Lorenzo Pellegrini,AS Roma,Midfielder Centre,186,Both,27,Prime
+Julian Brandt,Borussia Dortmund,Midfielder Centre,183,Right,27,Prime
+Monteiro Otávio,Al Nassr,Midfielder Right Left Centre,171,Right,29,Prime
+Marco Reus,Borussia Dortmund,Attacking Midfielder Right Left Centre,180,Both,34,Experienced
+Dušan Tadić,Fenerbahçe SK,Attacking Midfielder Right Left Centre,181,Left,35,Veteran
+Dejan Kulusevski,Tottenham Hotspur,Attacking Midfielder Right Centre,186,Left,23,Young
+Moussa Diaby,Aston Villa,Attacking Midfielder Right Left Centre,170,Left,24,Young
+Belloli Raphinha,Barcelona,Attacking Midfielder Right Left,176,Left,27,Prime
+Christian Pulisic,AC Milan,Attacking Midfielder Right Left Centre,179,Right,25,Prime
+Jarrod Bowen,West Ham United,Attacking Midfielder Right Centre,174,Left,27,Prime
+Marco Asensio,Paris Saint-Germain,Attacking Midfielder Right Left Centre,182,Left,28,Prime
+Domenico Berardi,US Sassuolo,Attacking Midfielder Right,185,Left,29,Prime
+Ángel di María,SL Benfica,Attacking Midfielder Right Left Centre,180,Left,36,Veteran
+Denzel Dumfries,Internazionale,Defender Right,189,Right,28,Prime
+Jarrod Bowen,West Ham United,Attacking Midfielder Right Centre,174,Left,27,Prime
+Marco Asensio,Paris Saint-Germain,Attacking Midfielder Right Left Centre,182,Left,28,Prime
+Domenico Berardi,US Sassuolo,Attacking Midfielder Right,185,Left,29,Prime
+Ángel di María,SL Benfica,Attacking Midfielder Right Left Centre,180,Left,36,Veteran
+Denzel Dumfries,Internazionale,Defender Right,189,Right,28,Prime
+Enzo Fernández,Chelsea,Defensive Midfielder Centre,178,Right,23,Young
+Dominik Szoboszlai,Liverpool,Midfielder Right Left Centre,186,Right,23,Young
+Douglas Luiz,Aston Villa,Defensive Midfielder Centre,175,Right,25,Prime
+Oleksandr Zinchenko,Arsenal,Defender Left,175,Left,27,Prime
+Rodrigo Bentancur,Tottenham Hotspur,Defensive Midfielder Centre,188,Right,26,Prime
+Fabián Ruiz,Paris Saint-Germain,Defensive Midfielder Centre,189,Left,28,Prime
+Rodrigo de Paul,Atlético Madrid,Midfielder Centre,180,Right,29,Prime
+Piotr Zielinski,SSC Napoli,Midfielder Centre,180,Both,29,Prime
+Luis Alberto,SS Lazio,Midfielder Centre,182,Right,31,Experienced
+Christian Eriksen,Manchester United,Defensive Midfielder Centre,182,Both,32,Experienced
+Fabián Ruiz,Paris Saint-Germain,Defensive Midfielder Centre,189,Left,28,Prime
+Rodrigo de Paul,Atlético Madrid,Midfielder Centre,180,Right,29,Prime
+Piotr Zielinski,SSC Napoli,Midfielder Centre,180,Both,29,Prime
+Luis Alberto,SS Lazio,Midfielder Centre,182,Right,31,Experienced
+Christian Eriksen,Manchester United,Defensive Midfielder Centre,182,Both,32,Experienced
+Dani Parejo,Villarreal CF,Defensive Midfielder Centre,180,Right,35,Veteran
+Pablo Gavi,Barcelona,Midfielder Centre,173,Right,19,Young
+Eduardo Camavinga,Real Madrid,Defender Left,182,Left,21,Young
+Alexis Mac Allister,Liverpool,Defensive Midfielder Centre,174,Right,25,Prime
+Frank Anguissa,SSC Napoli,Defensive Midfielder Centre,184,Right,28,Prime
+Marcos Llorente,Atlético Madrid,Defender Right,183,Right,29,Prime
+Franck Kessié,Al Ahli SFC,Defensive Midfielder Centre,183,Right,27,Prime
+N'golo Kanté,Al Ittihad,Defensive Midfielder Centre,169,Right,33,Experienced
+Youri Tielemans,Aston Villa,Defensive Midfielder Centre,177,Both,26,Prime
+Marcel Sabitzer,Borussia Dortmund,Midfielder Right Left Centre,177,Right,30,Experienced
+Marcos Llorente,Atlético Madrid,Defender Right,183,Right,29,Prime
+Franck Kessié,Al Ahli SFC,Defensive Midfielder Centre,183,Right,27,Prime
+N'golo Kanté,Al Ittihad,Defensive Midfielder Centre,169,Right,33,Experienced
+Youri Tielemans,Aston Villa,Defensive Midfielder Centre,177,Both,26,Prime
+Marcel Sabitzer,Borussia Dortmund,Midfielder Right Left Centre,177,Right,30,Experienced
+Henrikh Mkhitaryan,Internazionale,Midfielder Centre,177,Both,35,Veteran
+Jordan Henderson,Ajax,Defensive Midfielder Centre,182,Right,33,Experienced
+Martín Zubimendi,Real Sociedad,Defensive Midfielder Centre,181,Right,25,Prime
+Teun Koopmeiners,Atalanta BC,Defensive Midfielder Centre,184,Left,26,Prime
+Sandro Tonali,Newcastle United,Defensive Midfielder Centre,181,Right,23,Young
+Manuel Locatelli,Juventus,Defensive Midfielder Centre,185,Right,26,Prime
+Ismaël Bennacer,AC Milan,Defensive Midfielder Centre,175,Left,26,Prime
+Rúben Neves,Al Hilal SFC,Defensive Midfielder Centre,180,Right,27,Prime
+Stanislav Lobotka,SSC Napoli,Defensive Midfielder Centre,170,Both,29,Prime
+Frello Jorginho,Arsenal,Defensive Midfielder Centre,178,Right,32,Experienced
+Manuel Locatelli,Juventus,Defensive Midfielder Centre,185,Right,26,Prime
+Ismaël Bennacer,AC Milan,Defensive Midfielder Centre,175,Left,26,Prime
+Rúben Neves,Al Hilal SFC,Defensive Midfielder Centre,180,Right,27,Prime
+Stanislav Lobotka,SSC Napoli,Defensive Midfielder Centre,170,Both,29,Prime
+Frello Jorginho,Arsenal,Defensive Midfielder Centre,178,Right,32,Experienced
+Granit Xhaka,Bayer Leverkusen,Defensive Midfielder Centre,186,Left,31,Experienced
+João Palhinha,Fulham,Defensive Midfielder Centre,190,Right,28,Prime
+Thomas Partey,Arsenal,Defender Right,185,Right,30,Experienced
+Tavares Fabinho,Al Ittihad,Defender Centre,188,Right,30,Experienced
+Jeremie Frimpong,Bayer Leverkusen,Defender Right,171,Right,23,Young
+Nahuel Molina,Atlético Madrid,Defender Right,175,Right,26,Prime
+Ferland Mendy,Real Madrid,Defender Left,180,Left,28,Prime
+Federico Dimarco,Internazionale,Defender Left Centre,175,Left,26,Prime
+Giovanni di Lorenzo,SSC Napoli,Defender Right Centre,183,Right,30,Experienced
+Josè Gayá,Valencia CF,Defender Left,172,Left,28,Prime
+Nahuel Molina,Atlético Madrid,Defender Right,175,Right,26,Prime
+Ferland Mendy,Real Madrid,Defender Left,180,Left,28,Prime
+Federico Dimarco,Internazionale,Defender Left Centre,175,Left,26,Prime
+Giovanni di Lorenzo,SSC Napoli,Defender Right Centre,183,Right,30,Experienced
+Josè Gayá,Valencia CF,Defender Left,172,Left,28,Prime
+Raphaël Guerreiro,Bayern München,Defender Left,170,Left,30,Experienced
+Álex Grimaldo,Bayer Leverkusen,Defender Left,171,Left,28,Prime
+Joško Gvardiol,Manchester City,Defender Left Centre,185,Left,22,Young
+Lisandro Martínez,Manchester United,Defender Left Centre,175,Left,26,Prime
+Pau Torres,Aston Villa,Defender Centre,192,Left,27,Prime
+Ben White,Arsenal,Defender Right Centre,182,Right,26,Prime
+Presnel Kimpembe,Paris Saint-Germain,Defender Centre,183,Left,28,Prime
+Andreas Christensen,Barcelona,Defender Centre,186,Right,28,Prime
+Nathan Aké,Manchester City,Defender Left Centre,180,Left,29,Prime
+Aymeric Laporte,Al Nassr,Defender Centre,191,Left,29,Prime
+Ben White,Arsenal,Defender Right Centre,182,Right,26,Prime
+Presnel Kimpembe,Paris Saint-Germain,Defender Centre,183,Left,28,Prime
+Andreas Christensen,Barcelona,Defender Centre,186,Right,28,Prime
+Nathan Aké,Manchester City,Defender Left Centre,180,Left,29,Prime
+Aymeric Laporte,Al Nassr,Defender Centre,191,Left,29,Prime
+Matthias Ginter,SC Freiburg,Defender Centre,190,Right,30,Experienced
+Francesco Acerbi,Internazionale,Defender Centre,192,Left,36,Veteran
+Luiz Danilo,Juventus,Defender Right Left Centre,184,Right,32,Experienced
+Stefan de Vrij,Internazionale,Defender Centre,189,Right,32,Experienced
+Joël Matip,Liverpool,Defender Centre,195,Right,32,Experienced
+Thiago Silva,Chelsea,Defender Centre,183,Right,39,Veteran
+Axel Witsel,Atlético Madrid,Defender Centre,186,Right,35,Veteran
+Benjamin Pavard,Internazionale,Defender Right Centre,186,Right,28,Prime
+Manuel Akanji,Manchester City,Defender Right Left Centre,188,Right,28,Prime
+Sven Botman,Newcastle United,Defender Centre,195,Left,24,Young
+Thiago Silva,Chelsea,Defender Centre,183,Right,39,Veteran
+Axel Witsel,Atlético Madrid,Defender Centre,186,Right,35,Veteran
+Benjamin Pavard,Internazionale,Defender Right Centre,186,Right,28,Prime
+Manuel Akanji,Manchester City,Defender Right Left Centre,188,Right,28,Prime
+Sven Botman,Newcastle United,Defender Centre,195,Left,24,Young
+Gleison Bremer,Juventus,Defender Centre,188,Right,27,Prime
+Robin le Normand,Real Sociedad,Defender Centre,187,Right,27,Prime
+Fikayo Tomori,AC Milan,Defender Centre,185,Right,26,Prime
+Jonathan Tah,Bayer Leverkusen,Defender Centre,193,Both,28,Prime
+Niklas Süle,Borussia Dortmund,Defender Right Centre,195,Right,28,Prime
+Harry Maguire,Manchester United,Defender Centre,194,Right,31,Experienced
+Kalidou Koulibaly,Al Hilal SFC,Defender Centre,188,Right,32,Experienced
+Stefan Savić,Atlético Madrid,Defender Centre,187,Right,33,Experienced
+Nicolás Otamendi,SL Benfica,Defender Centre,183,Right,36,Veteran
+Sergio Ramos,Sevilla,Defender Centre,183,Right,38,Veteran
+Harry Maguire,Manchester United,Defender Centre,194,Right,31,Experienced
+Kalidou Koulibaly,Al Hilal SFC,Defender Centre,188,Right,32,Experienced
+Stefan Savić,Atlético Madrid,Defender Centre,187,Right,33,Experienced
+Nicolás Otamendi,SL Benfica,Defender Centre,183,Right,36,Veteran
+Sergio Ramos,Sevilla,Defender Centre,183,Right,38,Veteran
+Gregor Kobel,Borussia Dortmund,Goalkeeper,193,Right,26,Prime
+André Onana,Manchester United,Goalkeeper,190,Right,28,Prime
+Emiliano Martínez,Aston Villa,Goalkeeper,195,Right,31,Experienced
+Jordan Pickford,Everton,Goalkeeper,185,Left,30,Experienced
+Yann Sommer,Internazionale,Goalkeeper,183,Right,35,Veteran
+Martin Terrier,Stade Rennais,Attacking Midfielder Left,184,Right,27,Prime
+Memphis Depay,Atlético Madrid,Attacking Midfielder Right Left Centre,177,Right,30,Experienced
+Cody Gakpo,Liverpool,Midfielder Centre,193,Right,24,Young
+Rafa Silva,SL Benfica,Attacking Midfielder Left Centre,170,Right,30,Experienced
+Andrej Kramarić,TSG 1899 Hoffenheim,Attacking Midfielder Left Centre,180,Both,32,Experienced
+Martin Terrier,Stade Rennais,Attacking Midfielder Left,184,Right,27,Prime
+Memphis Depay,Atlético Madrid,Attacking Midfielder Right Left Centre,177,Right,30,Experienced
+Cody Gakpo,Liverpool,Midfielder Centre,193,Right,24,Young
+Rafa Silva,SL Benfica,Attacking Midfielder Left Centre,170,Right,30,Experienced
+Andrej Kramarić,TSG 1899 Hoffenheim,Attacking Midfielder Left Centre,180,Both,32,Experienced
+Alexis Sánchez,Internazionale,Attacking Midfielder Right Left Centre,169,Right,35,Veteran
+Iñaki Williams,Athletic Club,Attacking Midfielder Right Left,186,Right,29,Prime
+Timo Werner,RB Leipzig,Attacking Midfielder Right Left,180,Right,28,Prime
+Wilfried Zaha,Galatasaray SK,Attacking Midfielder Right Left,180,Right,31,Experienced
+Ivan Toney,Brentford,Forward Centre,185,Right,28,Prime
+André Silva,RB Leipzig,Forward Centre,182,Right,28,Prime
+Mauro Icardi,Galatasaray SK,Forward Centre,181,Right,31,Experienced
+Callum Wilson,Newcastle United,Forward Centre,180,Right,32,Experienced
+Pierre-Emerick Aubameyang,Olympique Marseille,Attacking Midfielder Left,187,Both,34,Experienced
+Luis Suárez,Inter Miami CF,Forward Centre,182,Right,37,Veteran
+André Silva,RB Leipzig,Forward Centre,182,Right,28,Prime
+Mauro Icardi,Galatasaray SK,Forward Centre,181,Right,31,Experienced
+Callum Wilson,Newcastle United,Forward Centre,180,Right,32,Experienced
+Pierre-Emerick Aubameyang,Olympique Marseille,Attacking Midfielder Left,187,Both,34,Experienced
+Luis Suárez,Inter Miami CF,Forward Centre,182,Right,37,Veteran
+Loïs Openda,RB Leipzig,Forward Centre,177,Right,24,Young
+Youssef En Nesyri,Sevilla,Forward Centre,188,Left,26,Prime
+Mehdi Taremi,FC Porto,Attacking Midfielder Centre,187,Right,31,Experienced
+Tammy Abraham,AS Roma,Forward Centre,195,Right,26,Prime
+Patrik Schick,Bayer Leverkusen,Forward Centre,191,Left,28,Prime
+Serhou Guirassy,VfB Stuttgart,Forward Centre,187,Right,28,Prime
+Sébastien Haller,Borussia Dortmund,Forward Centre,190,Right,29,Prime
+Alexandre Lacazette,Olympique Lyonnais,Forward Centre,176,Right,32,Experienced
+Xavi Simons,Paris Saint-Germain,Attacking Midfielder Right Left Centre,179,Right,21,Young
+Pedro Gonçalves,Sporting CP,Midfielder Centre,173,Right,25,Prime
+Serhou Guirassy,VfB Stuttgart,Forward Centre,187,Right,28,Prime
+Sébastien Haller,Borussia Dortmund,Forward Centre,190,Right,29,Prime
+Alexandre Lacazette,Olympique Lyonnais,Forward Centre,176,Right,32,Experienced
+Xavi Simons,Paris Saint-Germain,Attacking Midfielder Right Left Centre,179,Right,21,Young
+Pedro Gonçalves,Sporting CP,Midfielder Centre,173,Right,25,Prime
+Eberechi Eze,Crystal Palace,Midfielder Right Left Centre,173,Right,25,Prime
+Giovani Lo Celso,Tottenham Hotspur,Midfielder Centre,177,Left,28,Prime
+Dani Olmo,RB Leipzig,Attacking Midfielder Right Left Centre,179,Right,25,Prime
+Aleksandr Golovin,AS Monaco,Midfielder Centre,180,Right,27,Prime
+Nabil Fekir,Real Betis,Attacking Midfielder Right Left Centre,173,Left,30,Experienced
+Mario Pašalić,Atalanta BC,Defensive Midfielder Centre,188,Right,29,Prime
+Giorgian de Arrascaeta,Flamengo,Attacking Midfielder Right Left Centre,174,Right,29,Prime
+Thomas Lemar,Atlético Madrid,Midfielder Centre,170,Left,28,Prime
+Sergio Canales,Monterrey,Midfielder Centre,179,Left,33,Experienced
+Nico Williams,Athletic Club,Attacking Midfielder Right Left,180,Right,21,Young
+Mario Pašalić,Atalanta BC,Defensive Midfielder Centre,188,Right,29,Prime
+Giorgian de Arrascaeta,Flamengo,Attacking Midfielder Right Left Centre,174,Right,29,Prime
+Thomas Lemar,Atlético Madrid,Midfielder Centre,170,Left,28,Prime
+Sergio Canales,Monterrey,Midfielder Centre,179,Left,33,Experienced
+Nico Williams,Athletic Club,Attacking Midfielder Right Left,180,Right,21,Young
+Kaoru Mitoma,Brighton and Hove Albion,Attacking Midfielder Left,178,Right,26,Prime
+Yéremy Pino,Villarreal CF,Attacking Midfielder Right Left,172,Right,21,Young
+Santos Antony,Manchester United,Attacking Midfielder Right Left,174,Left,24,Young
+Bryan Mbeumo,Brentford,Attacking Midfielder Right Left Centre,171,Left,24,Young
+Samuel Chukwueze,AC Milan,Attacking Midfielder Right Left,172,Left,24,Young
+Nicolás González,ACF Fiorentina,Attacking Midfielder Right Left,180,Left,26,Prime
+Ferrán Torres,Barcelona,Attacking Midfielder Right Left,180,Right,24,Young
+Pedro Neto,Wolverhampton Wanderers,Attacking Midfielder Right Left,172,Left,24,Young
+Jadon Sancho,Manchester United,Attacking Midfielder Right Left Centre,180,Right,24,Young
+Takefusa Kubo,Real Sociedad,Attacking Midfielder Right Left Centre,167,Left,22,Young
+Nicolás González,ACF Fiorentina,Attacking Midfielder Right Left,180,Left,26,Prime
+Ferrán Torres,Barcelona,Attacking Midfielder Right Left,180,Right,24,Young
+Pedro Neto,Wolverhampton Wanderers,Attacking Midfielder Right Left,172,Left,24,Young
+Jadon Sancho,Manchester United,Attacking Midfielder Right Left Centre,180,Right,24,Young
+Takefusa Kubo,Real Sociedad,Attacking Midfielder Right Left Centre,167,Left,22,Young
+Mattia Zaccagni,SS Lazio,Midfielder Centre,177,Right,28,Prime
+Hirving Lozano,PSV,Attacking Midfielder Right Left,177,Right,28,Prime
+Vincenzo Grifo,SC Freiburg,Attacking Midfielder Right Left Centre,181,Right,31,Experienced
+Matteo Politano,SSC Napoli,Attacking Midfielder Right Centre,171,Left,30,Experienced
+Yannick Carrasco,Al Shabab,Midfielder Right Left,181,Right,30,Experienced
+Leandro Trossard,Arsenal,Midfielder Right Left,171,Right,29,Prime
+Lucas Ocampos,Sevilla,Attacking Midfielder Right Left,187,Both,29,Prime
+Ivan Perišić,Hajduk Split,Defender Left,186,Both,35,Veteran
+Filip Kostić,Juventus,Midfielder Right Left,184,Left,31,Experienced
+Ferreira Vitinha,Paris Saint-Germain,Midfielder Centre,172,Right,24,Young
+Leandro Trossard,Arsenal,Midfielder Right Left,171,Right,29,Prime
+Lucas Ocampos,Sevilla,Attacking Midfielder Right Left,187,Both,29,Prime
+Ivan Perišić,Hajduk Split,Defender Left,186,Both,35,Veteran
+Filip Kostić,Juventus,Midfielder Right Left,184,Left,31,Experienced
+Ferreira Vitinha,Paris Saint-Germain,Midfielder Centre,172,Right,24,Young
+Brais Méndez,Real Sociedad,Midfielder Right Centre,187,Left,27,Prime
+Houssem Aouar,AS Roma,Midfielder Left Centre,175,Right,25,Prime
+Exequiel Palacios,Bayer Leverkusen,Defensive Midfielder Centre,177,Right,25,Prime
+Carlos Soler,Paris Saint-Germain,Midfielder Centre,183,Right,27,Prime
+Daichi Kamada,SS Lazio,Midfielder Centre,184,Right,27,Prime
+João Mário,SL Benfica,Midfielder Right Left Centre,179,Right,31,Experienced
+James Ward-Prowse,West Ham United,Midfielder Centre,173,Right,29,Prime
+Pascal Gross,Brighton and Hove Albion,Defender Right Left,181,Both,32,Experienced
+Konrad Laimer,Bayern München,Defender Right,179,Right,26,Prime
+Youssouf Fofana,AS Monaco,Defensive Midfielder Centre,176,Right,25,Prime
+João Mário,SL Benfica,Midfielder Right Left Centre,179,Right,31,Experienced
+James Ward-Prowse,West Ham United,Midfielder Centre,173,Right,29,Prime
+Pascal Gross,Brighton and Hove Albion,Defender Right Left,181,Both,32,Experienced
+Konrad Laimer,Bayern München,Defender Right,179,Right,26,Prime
+Youssouf Fofana,AS Monaco,Defensive Midfielder Centre,176,Right,25,Prime
+Oihan Sancet,Athletic Club,Midfielder Centre,188,Right,23,Young
+Scott Mctominay,Manchester United,Defensive Midfielder Centre,193,Right,27,Prime
+Yves Bissouma,Tottenham Hotspur,Defensive Midfielder Centre,181,Right,27,Prime
+Xaver Schlager,RB Leipzig,Defensive Midfielder Centre,184,Left,26,Prime
+Tomáš Souček,West Ham United,Defensive Midfielder Centre,190,Right,29,Prime
+Valentin Rongier,Olympique Marseille,Defender Right,172,Right,29,Prime
+Cassio Joelinton,Newcastle United,Midfielder Left Centre,186,Right,27,Prime
+Renato Sanches,Paris Saint-Germain,Defensive Midfielder Centre,176,Right,26,Prime
+Seko Fofana,Al Nassr,Defensive Midfielder Centre,185,Right,28,Prime
+John Mcginn,Aston Villa,Midfielder Right Left Centre,178,Left,29,Prime
+Valentin Rongier,Olympique Marseille,Defender Right,172,Right,29,Prime
+Cassio Joelinton,Newcastle United,Midfielder Left Centre,186,Right,27,Prime
+Renato Sanches,Paris Saint-Germain,Defensive Midfielder Centre,176,Right,26,Prime
+Seko Fofana,Al Nassr,Defensive Midfielder Centre,185,Right,28,Prime
+John Mcginn,Aston Villa,Midfielder Right Left Centre,178,Left,29,Prime
+Rodrigues Fred,Fenerbahçe SK,Defensive Midfielder Centre,169,Left,31,Experienced
+Jonas Hofmann,Bayer Leverkusen,Midfielder Right Centre,174,Right,31,Experienced
+Jordan Veretout,Olympique Marseille,Defensive Midfielder Centre,176,Right,31,Experienced
+Saúl Níguez,Atlético Madrid,Defensive Midfielder Centre,184,Left,29,Prime
+Kalvin Phillips,Manchester City,Defensive Midfielder Centre,178,Right,28,Prime
+Leandro Paredes,AS Roma,Defensive Midfielder Centre,180,Right,29,Prime
+Sergio Busquets,Inter Miami CF,Defensive Midfielder Centre,189,Right,35,Veteran
+Moisés Caicedo,Chelsea,Defensive Midfielder Centre,178,Right,22,Young
+Manuel Ugarte,Paris Saint-Germain,Defensive Midfielder Centre,182,Right,23,Young
+Edson Álvarez,West Ham United,Defender Centre,187,Right,26,Prime
+Leandro Paredes,AS Roma,Defensive Midfielder Centre,180,Right,29,Prime
+Sergio Busquets,Inter Miami CF,Defensive Midfielder Centre,189,Right,35,Veteran
+Moisés Caicedo,Chelsea,Defensive Midfielder Centre,178,Right,22,Young
+Manuel Ugarte,Paris Saint-Germain,Defensive Midfielder Centre,182,Right,23,Young
+Edson Álvarez,West Ham United,Defender Centre,187,Right,26,Prime
+Boubacar Kamara,Aston Villa,Defender Centre,184,Right,24,Young
+Ibrahim Sangaré,Nottingham Forest,Defensive Midfielder Centre,191,Right,26,Prime
+Denis Zakaria,AS Monaco,Defender Centre,191,Right,27,Prime
+Wilfred Ndidi,Leicester City,Defender Centre,184,Right,27,Prime
+Guido Rodríguez,Real Betis,Defensive Midfielder Centre,185,Right,30,Experienced
+Sofyan Amrabat,ACF Fiorentina,Defensive Midfielder Centre,185,Right,27,Prime
+Bryan Cristante,AS Roma,Defender Centre,186,Right,29,Prime
+Pierre-Emile Hojbjerg,Tottenham Hotspur,Defensive Midfielder Centre,185,Right,28,Prime
+Marten de Roon,Atalanta BC,Defender Centre,185,Right,33,Experienced
+Emre Can,Borussia Dortmund,Defender Centre,185,Both,30,Experienced
+Sofyan Amrabat,ACF Fiorentina,Defensive Midfielder Centre,185,Right,27,Prime
+Bryan Cristante,AS Roma,Defender Centre,186,Right,29,Prime
+Pierre-Emile Hojbjerg,Tottenham Hotspur,Defensive Midfielder Centre,185,Right,28,Prime
+Marten de Roon,Atalanta BC,Defender Centre,185,Right,33,Experienced
+Emre Can,Borussia Dortmund,Defender Centre,185,Both,30,Experienced
+Danilo Pereira,Paris Saint-Germain,Defender Centre,188,Right,32,Experienced
+Geoffrey Kondogbia,Olympique Marseille,Defender Centre,188,Left,31,Experienced
+Alejandro Balde,Barcelona,Defender Right Left,175,Left,20,Young
+Nuno Mendes,Paris Saint-Germain,Defender Left,183,Left,21,Young
+Pedro Porro,Tottenham Hotspur,Defender Right,176,Right,24,Young
+Joakim Maehle,VfL Wolfsburg,Defender Right Left,184,Right,26,Prime
+Nordi Mukiele,Paris Saint-Germain,Defender Right Centre,187,Right,26,Prime
+Ben Chilwell,Chelsea,Defender Left,178,Left,27,Prime
+Davide Calabria,AC Milan,Defender Right,176,Right,27,Prime
+Pervis Estupiñán,Brighton and Hove Albion,Defender Left,175,Left,26,Prime
+Joakim Maehle,VfL Wolfsburg,Defender Right Left,184,Right,26,Prime
+Nordi Mukiele,Paris Saint-Germain,Defender Right Centre,187,Right,26,Prime
+Ben Chilwell,Chelsea,Defender Left,178,Left,27,Prime
+Davide Calabria,AC Milan,Defender Right,176,Right,27,Prime
+Pervis Estupiñán,Brighton and Hove Albion,Defender Left,175,Left,26,Prime
+Timothy Castagne,Fulham,Defender Right Left,187,Right,28,Prime
+Leonardo Spinazzola,AS Roma,Defender Right Left,186,Right,31,Experienced
+Marcos Acuña,Sevilla,Defender Left,172,Left,32,Experienced
+Nicolás Tagliafico,Olympique Lyonnais,Defender Left,172,Left,31,Experienced
+Juan Cuadrado,Internazionale,Defender Right,179,Right,35,Veteran
+Jesús Navas,Sevilla,Defender Right,170,Right,38,Veteran
+Juan Foyth,Villarreal CF,Defender Right Centre,187,Right,26,Prime
+Reinildo Mandava,Atlético Madrid,Defender Left Centre,180,Left,30,Experienced
+Kieran Tierney,Arsenal,Defender Left Centre,178,Left,26,Prime
+Edmond Tapsoba,Bayer Leverkusen,Defender Centre,190,Right,25,Prime
+Jesús Navas,Sevilla,Defender Right,170,Right,38,Veteran
+Juan Foyth,Villarreal CF,Defender Right Centre,187,Right,26,Prime
+Reinildo Mandava,Atlético Madrid,Defender Left Centre,180,Left,30,Experienced
+Kieran Tierney,Arsenal,Defender Left Centre,178,Left,26,Prime
+Edmond Tapsoba,Bayer Leverkusen,Defender Centre,190,Right,25,Prime
+Nico Schlotterbeck,Borussia Dortmund,Defender Centre,191,Left,24,Young
+Jurriën Timber,Arsenal,Defender Right Left Centre,179,Right,22,Young
+Jean Clair Todibo,OGC Nice,Defender Centre,190,Right,24,Young
+Gianluca Mancini,AS Roma,Defender Centre,190,Right,28,Prime
+Amir Rrahmani,SSC Napoli,Defender Centre,192,Both,30,Experienced
+Lukas Klostermann,RB Leipzig,Defender Right Centre,185,Right,27,Prime
+Fabian Schär,Newcastle United,Defender Centre,186,Right,32,Experienced
+Rafael Tolói,Atalanta BC,Defender Centre,187,Right,33,Experienced
+Daley Blind,Girona FC,Defender Left Centre,180,Left,34,Experienced
+Leonardo Bonucci,Fenerbahçe SK,Defender Centre,190,Right,36,Veteran
+Lukas Klostermann,RB Leipzig,Defender Right Centre,185,Right,27,Prime
+Fabian Schär,Newcastle United,Defender Centre,186,Right,32,Experienced
+Rafael Tolói,Atalanta BC,Defender Centre,187,Right,33,Experienced
+Daley Blind,Girona FC,Defender Left Centre,180,Left,34,Experienced
+Leonardo Bonucci,Fenerbahçe SK,Defender Centre,190,Right,36,Veteran
+Pierre Kalulu,AC Milan,Defender Right Centre,184,Right,23,Young
+Takehiro Tomiyasu,Arsenal,Defender Right Left Centre,188,Both,25,Prime
+Mario Hermoso,Atlético Madrid,Defender Left Centre,184,Left,28,Prime
+Joe Gomez,Liverpool,Defender Right Left Centre,185,Right,26,Prime
+Alex Sandro,Juventus,Defender Left Centre,180,Left,33,Experienced
+César Azpilicueta,Atlético Madrid,Defender Right Left Centre,178,Right,34,Experienced
+Marc Guehi,Crystal Palace,Defender Centre,182,Right,23,Young
+Roger Ibañez,Al Ahli SFC,Defender Centre,185,Right,25,Prime
+Ibrahima Konaté,Liverpool,Defender Centre,194,Right,24,Young
+Ezri Konsa,Aston Villa,Defender Right Centre,183,Right,26,Prime
+César Azpilicueta,Atlético Madrid,Defender Right Left Centre,178,Right,34,Experienced
+Marc Guehi,Crystal Palace,Defender Centre,182,Right,23,Young
+Roger Ibañez,Al Ahli SFC,Defender Centre,185,Right,25,Prime
+Ibrahima Konaté,Liverpool,Defender Centre,194,Right,24,Young
+Ezri Konsa,Aston Villa,Defender Right Centre,183,Right,26,Prime
+Nikola Milenković,ACF Fiorentina,Defender Right Centre,195,Right,26,Prime
+Nayef Aguerd,West Ham United,Defender Centre,190,Left,28,Prime
+David García,CA Osasuna,Defender Centre,185,Both,30,Experienced
+Nico Elvedi,Borussia Mönchengladbach,Defender Centre,189,Right,27,Prime
+Diego Carlos,Aston Villa,Defender Centre,186,Right,31,Experienced
+Joachim Andersen,Crystal Palace,Defender Centre,190,Right,27,Prime
+Chancel Mbemba,Olympique Marseille,Defender Centre,182,Right,29,Prime
+Alessio Romagnoli,SS Lazio,Defender Centre,188,Left,29,Prime
+Willi Orban,RB Leipzig,Defender Centre,186,Right,31,Experienced
+Iñigo Martínez,Barcelona,Defender Centre,182,Left,32,Experienced
+Joachim Andersen,Crystal Palace,Defender Centre,190,Right,27,Prime
+Chancel Mbemba,Olympique Marseille,Defender Centre,182,Right,29,Prime
+Alessio Romagnoli,SS Lazio,Defender Centre,188,Left,29,Prime
+Willi Orban,RB Leipzig,Defender Centre,186,Right,31,Experienced
+Iñigo Martínez,Barcelona,Defender Centre,182,Left,32,Experienced
+Victor Lindelöf,Manchester United,Defender Centre,187,Right,29,Prime
+Lewis Dunk,Brighton and Hove Albion,Defender Centre,192,Right,32,Experienced
+Raúl Albiol,Villarreal CF,Defender Centre,190,Right,38,Veteran
+Giorgi Mamardashvili,Valencia CF,Goalkeeper,197,Right,23,Young
+Robert Sánchez,Chelsea,Goalkeeper,197,Right,26,Prime
+Guglielmo Vicario,Tottenham Hotspur,Goalkeeper,194,Right,27,Prime
+Diogo Costa,FC Porto,Goalkeeper,187,Right,24,Young
+Aaron Ramsdale,Arsenal,Goalkeeper,188,Right,25,Prime
+Unai Simón,Athletic Club,Goalkeeper,190,Right,26,Prime
+Alex Meret,SSC Napoli,Goalkeeper,191,Left,27,Prime
+Guglielmo Vicario,Tottenham Hotspur,Goalkeeper,194,Right,27,Prime
+Diogo Costa,FC Porto,Goalkeeper,187,Right,24,Young
+Aaron Ramsdale,Arsenal,Goalkeeper,188,Right,25,Prime
+Unai Simón,Athletic Club,Goalkeeper,190,Right,26,Prime
+Alex Meret,SSC Napoli,Goalkeeper,191,Left,27,Prime
+David Raya,Brentford,Goalkeeper,183,Right,28,Prime
+Álex Remiro,Real Sociedad,Goalkeeper,191,Right,29,Prime
+Nick Pope,Newcastle United,Goalkeeper,190,Right,32,Experienced
+Yassine Bounou,Al Hilal SFC,Goalkeeper,190,Left,33,Experienced
+Keylor Navas,Paris Saint-Germain,Goalkeeper,185,Right,37,Veteran
